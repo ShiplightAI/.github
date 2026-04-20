@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## https://www.shiplight.ai/
 
 ### The Verification Platform for AI-Native Development
